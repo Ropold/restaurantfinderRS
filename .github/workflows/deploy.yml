@@ -41,7 +41,8 @@ jobs:
         uses: actions/setup-java@v4
         with:
           java-version: '21' # must match the version in the pom.xml
-          distribution: 'temurin'cache: 'maven'
+          distribution: 'temurin'
+          cache: 'maven'
 
       - name: Build with maven
         run: mvn -B package --file backend/pom.xml
