@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Fischereihafen Restaurant",
+    "city": "Hamburg",
+    "category": "Seafood",
+    "description": "Ein gehobenes Restaurant mit Hafenblick, bekannt für frische Fischgerichte und klassische Hamburger Spezialitäten.",
+    "status": "ON_WISHLIST"
+  },
+  {
+    "id": "2",
+    "name": "Bullerei",
+    "city": "Hamburg",
+    "category": "Deutsch, Casual Dining",
+    "description": "Ein industriell-schickes Lokal, das herzhafte deutsche Gerichte mit einem modernen Touch serviert.",
+    "status": "NOT_ON_WISHLIST"
+  },
+  {
+    "id": "3",
+    "name": "Sushi Circle",
+    "city": "Hamburg",
+    "category": "Japanisch, Sushi-Bar",
+    "description": "Beliebtes Restaurant für frisches Sushi und andere japanische Spezialitäten im Herzen von Hamburg.",
+    "status": "ON_WISHLIST"
+  },
+  {
+    "id": "4",
+    "name": "Peter Pane",
+    "city": "Hamburg",
+    "category": "Burger, Fast Food",
+    "description": "Eine kreative Burger-Kette mit einzigartigen Variationen und gemütlichem Ambiente.",
+    "status": "REMOVED_FROM_WISHLIST"
+  },
+  {
+    "id": "5",
+    "name": "Päffgen Brauhaus",
+    "city": "Köln",
+    "category": "Deutsch, Brauhaus",
+    "description": "Ein traditionelles Kölner Brauhaus, bekannt für Kölsch Bier und herzhafte deutsche Küche.",
+    "status": "ON_WISHLIST"
+  },
+  {
+    "id": "6",
+    "name": "Taku",
+    "city": "Köln",
+    "category": "Asiatisch, Fine Dining",
+    "description": "Ein preisgekröntes Restaurant mit asiatischer Gourmet-Küche und modernem Ambiente im Excelsior Hotel.",
+    "status": "NOT_ON_WISHLIST"
+  },
+  {
+    "id": "7",
+    "name": "Altes Mädchen",
+    "city": "Hamburg",
+    "category": "Craft Beer, Casual Dining",
+    "description": "Ein lebhaftes Restaurant und Brauerei mit einer großen Auswahl an Craft-Bieren und herzhaften Speisen.",
+    "status": "NOT_ON_WISHLIST"
+  }
+]
